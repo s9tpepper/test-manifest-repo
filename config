@@ -1,0 +1,5 @@
+package_manager = "pacman"
+locked_versions = false
+dotfiles_repo = "https://github.com/s9tpepper/dotfiles.git"
+dotfiles_symlink = true
+manifest_repo = "git@github.com:s9tpepper/test-manifest-repo.git"

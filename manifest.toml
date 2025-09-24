@@ -1,0 +1,26 @@
+[[packages]]
+name = "base"
+
+[[packages]]
+name = "base-devel"
+
+[[packages]]
+name = "bluetui"
+
+[[packages]]
+name = "git"
+
+[[packages]]
+name = "less"
+
+[[packages]]
+name = "neovim"
+
+[[packages]]
+name = "rsync"
+
+[[packages]]
+name = "rustup"
+
+[[packages]]
+name = "stow"
