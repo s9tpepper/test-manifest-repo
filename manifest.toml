@@ -5,9 +5,6 @@ name = "base"
 name = "base-devel"
 
 [[packages]]
-name = "bluetui"
-
-[[packages]]
 name = "git"
 
 [[packages]]
