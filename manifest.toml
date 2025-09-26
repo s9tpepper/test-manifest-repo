@@ -17,9 +17,6 @@ name = "less"
 name = "neovim"
 
 [[packages]]
-name = "openssh"
-
-[[packages]]
 name = "rsync"
 
 [[packages]]
